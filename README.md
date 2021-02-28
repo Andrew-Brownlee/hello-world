@@ -1,5 +1,5 @@
 # hello-world
 
-CSE 360 Hello World demo
+CSE 360 Hello World git demo
 
 Andrew Brownlee
